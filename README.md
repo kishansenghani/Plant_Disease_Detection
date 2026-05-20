@@ -17,7 +17,7 @@ This project trains a convolutional neural network (CNN) to classify plant leaf 
   
 ## Dataset
 Plant Village -https://www.kaggle.com/datasets/emmarex/plantdisease?utm_source=chatgpt.com
-
+keep the file of only healthy, early bright, late bright , remove other folder 
 ## Usage
 
 1. Install dependencies:
