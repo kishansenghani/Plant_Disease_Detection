@@ -14,6 +14,9 @@ This project trains a convolutional neural network (CNN) to classify plant leaf 
 - Python 3.8+
 - TensorFlow
 - Matplotlib
+  
+## Dataset
+Plant Village -https://www.kaggle.com/datasets/emmarex/plantdisease?utm_source=chatgpt.com
 
 ## Usage
 
