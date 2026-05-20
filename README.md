@@ -14,16 +14,18 @@ This project trains a convolutional neural network (CNN) to classify plant leaf 
 - Python 3.8+
 - TensorFlow
 - Matplotlib
+- Streamlit
   
 ## Dataset
 Plant Village -https://www.kaggle.com/datasets/emmarex/plantdisease?utm_source=chatgpt.com
 keep the file of only healthy, early bright, late bright , remove other folder 
+
 ## Usage
 
 1. Install dependencies:
 
 ```bash
-pip install tensorflow matplotlib
+pip install tensorflow matplotlib streamlit
 ```
 
 2. Run training:
